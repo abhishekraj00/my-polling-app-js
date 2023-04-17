@@ -1,0 +1,30 @@
+.home-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.home-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.home-loading {
+  font-size: 1.5rem;
+  margin: 20px 0;
+}
+
+.home-button {
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 20px 0;
+}
+
+.home-button:hover {
+  background-color: #0066b3;
+}

@@ -1,0 +1,37 @@
+.post-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.post-page pre {
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  padding: 20px;
+  overflow-x: auto;
+}
+
+.post-page button {
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.post-page button:hover {
+  background-color: #0066b3;
+}
+
+.heading {
+  background-color: #2b420d;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  margin-top: 20px;
+}
