@@ -44,7 +44,7 @@ const Home: React.FC = () => {
   useEffect(() => {
     const timer = setTimeout(() => {
       loadMorePosts();
-    }, 9000); // 10 seconds in milliseconds
+    }, 10000); // 10 seconds in milliseconds
 
     // Clear the timer when the component unmounts
     return () => clearTimeout(timer);
